@@ -6,14 +6,29 @@
 }
 
 body {
-    height: 100vh;
     box-sizing: border-box;
     background-color: #020231;
     color: #F6F6F6;
 }
 
+.cabecalho {
+    padding: 2% 0% 0% 15%;
+}
+
+.cabecalho__menu {
+    display: flex;
+    gap: 80px;
+}
+
+.cabecalho__menu__link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: #22D4FD;
+}
+
 .apresentacao {
-    margin: 10% 15%;
+    padding: 4% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -74,4 +89,14 @@ body {
 .apresentacao__links__link:hover {
     background-color: #020115;
     padding: 4% 3%;
+}
+
+.rodape {
+    padding: 24px;
+    color: #000000;
+    background-color: #22D4FD;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
 }
