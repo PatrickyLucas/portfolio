@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=Great+Vibes&display=swap');
 
 :root {
     --cor-primaria: #03001C;
@@ -7,12 +8,13 @@
     --cor-hover-botoes: #301E67;
     --cor-texto-rodape: #000000;
 
+    --fonte-titulo: 'Great Vibes', cursive;
     --fonte-primaria: 'Krona One', sans-serif;
     --fonte-secundaria: 'Montserrat', sans-serif;
 }
 
 * {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
 }
 
@@ -23,7 +25,13 @@ body {
 }
 
 .cabecalho {
-    padding: 2% 0% 0% 15%;
+    padding: 2% 0% 0% 2%;
+}
+
+.titulo_cabecalho {
+    font-size: 5em;
+    font-family: var(--fonte-titulo);
+    width: 100%;
 }
 
 .cabecalho__menu {
@@ -52,6 +60,12 @@ body {
     display: flex;
     flex-direction: column;
     gap: 40px;
+}
+
+.apresentacao_layout {
+    display: flex;
+    align-items: center;
+    gap: 1em;
 }
 
 .apresentacao__conteudo__titulo {
