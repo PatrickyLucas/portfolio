@@ -165,11 +165,17 @@ body {
 }
 
 .botão__formulario {
-    width: 100px;
-    height: 70px;
+    width: 120px;
+    height: 80px;
     font-size: 1.5em;
     font-weight: 700;
     background-color: var(--cor-secundaria);
+}
+
+.botão__formulario:hover {
+    width: 150px;
+    height: 100px;
+    background-color: var(--cor-tercearia);
 }
 
 .rodape {
