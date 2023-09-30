@@ -48,7 +48,7 @@ body {
 .cabecalho__menu__link {
     font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
-    font-weight: 600;
+    font-weight: 600px;
     color: var(--cor-tercearia);
     text-decoration: none;
 }
@@ -62,7 +62,7 @@ body {
 }
 
 .apresentacao__conteudo {
-    width: 50%;
+    width: 700px;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -83,11 +83,10 @@ body {
     color: var(--cor-tercearia);
 }
 
-.apresentacao__conteudo__texto {
+.apresentacao__conteudo__texto, .link__email {
     font-size: 1.5rem;
     font-family: var(--fonte-secundaria);
 }
-
 
 .apresentacao__conteudo__texto a{
     text-decoration: none;
@@ -132,6 +131,45 @@ body {
 
 .apresentacao__imagem {
     width: 50%;
+}
+
+.contatos__grid {
+    display: grid;
+    grid-template-columns: 450px 450px;
+    justify-content: center;
+    align-items: start;
+    gap: 3em;
+}
+
+.contatos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    gap: 1em;
+}
+
+.texto__formulario {
+    font-size: 1.5em;
+    margin: 5px;
+}
+
+.botão__formulario {
+    width: 100px;
+    height: 70px;
+    font-size: 1.5em;
+    font-weight: 700;
+    background-color: var(--cor-secundaria);
 }
 
 .rodape {
