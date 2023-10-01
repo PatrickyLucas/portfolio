@@ -61,7 +61,7 @@ body {
 }
 
 .apresentacao__conteudo__principal {
-    width: 900px;
+    width: 800px;
     display: flex;
     flex-direction: column;
     gap: 40px;
