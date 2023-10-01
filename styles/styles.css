@@ -58,11 +58,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 82px;
 }
 
 .apresentacao__conteudo {
-    width: 700px;
+    width: 800px;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -71,7 +70,7 @@ body {
 .apresentacao_layout {
     display: flex;
     align-items: center;
-    gap: 1em;
+    gap: 2em;
 }
 
 .apresentacao__conteudo__titulo {
@@ -130,8 +129,14 @@ body {
 }
 
 .apresentacao__imagem {
-    width: 30%;
+    width: 25%;
     border-radius: 100%;
+}
+
+.apresentacao__imagem__portfolio {
+    width: 40vh;
+    border-radius: 15%;
+    margin-left: 0;
 }
 
 .conteudo_principal_formacao {
