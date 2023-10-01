@@ -60,8 +60,15 @@ body {
     justify-content: center;
 }
 
+.apresentacao__conteudo__principal {
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
 .apresentacao__conteudo {
-    width: 800px;
+    width: 680px;
     display: flex;
     flex-direction: column;
     gap: 40px;
