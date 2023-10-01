@@ -136,19 +136,28 @@ body {
 
 .conteudo_principal_formacao {
     display: grid;
-    grid-template-columns: 450px 450px;
+    grid-template-columns: 550px 550px;
     justify-content: center;
     align-items: start;
     width: 700px;
+    gap: 2em;
     
 }
 
-.formacoes {
+.formacoes, .badges_cisco, .certificado_alura {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 1em;
+    gap: 2em;
+}
+
+.img_hb {
+    margin: 3.2em;
+}
+
+.img_certificados_alura {
+    width: 30vh;
 }
 
 .transparente {
@@ -157,7 +166,7 @@ body {
 
 .contatos__grid {
     display: grid;
-    grid-template-columns: 450px 450px;
+    grid-template-columns: 400px 400px;
     justify-content: center;
     align-items: start;
     gap: 3em;
