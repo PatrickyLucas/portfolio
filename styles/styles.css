@@ -361,6 +361,26 @@ body {
         font-size: 0.9rem;
     }
 
+    .contatos__grid {
+        grid-template-columns: 180px 160px;
+        gap: 1rem;
+        margin-top: 1rem;
+    }
+
+    .texto_contatos {
+        font-size: 0.7rem;
+    }
+
+    .texto__formulario {
+        font-size: 1rem;
+    }
+
+    .botão__formulario {
+        width: 70px;
+        height: 40px;
+        font-size: 1rem;
+    }
+
     .rodape {
         font-size: .9rem;
     }
