@@ -381,6 +381,12 @@ body {
         font-size: 1rem;
     }
 
+    .botão__formulario:hover {
+        width: 75px;
+        height: 50px;
+        background-color: var(--cor-tercearia);
+    }
+
     .rodape {
         font-size: .9rem;
     }
