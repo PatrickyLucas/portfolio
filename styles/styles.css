@@ -312,12 +312,12 @@ body {
     }
 
     .cabecalho__menu__link {
-        font-size: .8rem;
+        font-size: 1rem;
       }
 
       .cabecalho__menu {
         justify-content: center;
-        gap: 40px;
+        gap: 30px;
     }
 
     .apresentacao__imagem__portfolio {
