@@ -376,13 +376,13 @@ body {
     }
 
     .contatos__grid {
-        grid-template-columns: 150px 150px;
+        grid-template-columns: 160px 160px;
         gap: 1rem;
         margin-top: 1rem;
     }
 
     .texto_contatos {
-        font-size: 0.7rem;
+        font-size: 0.8rem;
     }
 
     .texto__formulario {
