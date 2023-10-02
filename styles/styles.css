@@ -282,6 +282,7 @@ body {
 
     .apresentacao {
         padding: 3% 8%;
+        margin-top: 1rem;
     }
 }
 
@@ -336,9 +337,14 @@ body {
         gap: 25px;
     }
 
+    .apresentacao__conteudo {
+        margin-top: 1rem;
+    }
+
     .apresentacao_layout {
         margin-top: 1rem;
         gap: .5rem;
+        padding: 3% 8%;
     }
 
     .apresentacao__conteudo__titulo__principal {
