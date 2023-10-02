@@ -336,6 +336,19 @@ body {
         gap: 25px;
     }
 
+    .apresentacao_layout {
+        margin-top: 1rem;
+        gap: .5rem;
+    }
+
+    .apresentacao__conteudo__titulo__principal {
+        font-size: 1rem;
+    }
+
+    .apresentacao__conteudo__texto__principal {
+        font-size: 1rem;
+    }
+
     .apresentacao__imagem__portfolio {
         display: none;
     }
