@@ -267,6 +267,10 @@ body {
         display: flex;
         flex-direction: column;
     }
+
+    .formacao {
+        width: 100%;
+    }
     
     .transparente {
         display: none;
@@ -286,7 +290,7 @@ body {
     }
 
     .contatos__grid {
-        grid-template-columns: 280px 280px;
+        grid-template-columns: 270px 270px;
     }
 
     .texto_contatos {
@@ -315,7 +319,11 @@ body {
       }
 
     .contatos__grid {
-        grid-template-columns: 240px 240px;
+        grid-template-columns: 170px 170px;
+    }
+
+    .texto_contatos {
+        font-size: 1rem;
     }
 
     .rodape {
@@ -339,7 +347,7 @@ body {
 
     .apresentacao__imagem__portfolio {
         display: none;
-    }
+    }z
 
     .contatos__grid {
         grid-template-columns: 200px 200px;
@@ -400,7 +408,7 @@ body {
     }
 
     .contatos__grid {
-        grid-template-columns: 170px 170px;
+        grid-template-columns: 190px 160px;
         gap: 1rem;
         margin-top: 1rem;
     }
