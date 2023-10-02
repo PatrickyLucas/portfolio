@@ -219,7 +219,7 @@ body {
 }
 
 .texto__formulario {
-    font-size: 1.5em;
+    font-size: 1.4em;
     margin: 5px;
 }
 
@@ -284,6 +284,14 @@ body {
         padding: 3% 8%;
         margin-top: 1rem;
     }
+
+    .contatos__grid {
+        grid-template-columns: 280px 280px;
+    }
+
+    .texto_contatos {
+        font-size: 1.3rem;
+    }
 }
 
 @media (max-width: 700px) {
@@ -314,7 +322,7 @@ body {
 
     .cabecalho__menu__link {
         font-size: 1rem;
-      }
+    }
 
       .cabecalho__menu {
         justify-content: center;
@@ -326,7 +334,7 @@ body {
     }
 }
 
-@media (max-width: 405px) {
+@media (max-width: 425px) {
 
     .cabecalho__menu__link {
         font-size: .9rem;
