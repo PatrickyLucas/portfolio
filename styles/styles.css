@@ -344,7 +344,11 @@ body {
     .apresentacao_layout {
         margin-top: 1rem;
         gap: .5rem;
-        padding: 3% 8%;
+        /* padding: 3% 8%; */
+    }
+
+    .apresentacao__imagem {
+        width: 40%;
     }
 
     .apresentacao__conteudo__titulo__principal {
