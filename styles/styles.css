@@ -355,6 +355,10 @@ body {
         font-size: 1rem;
     }
 
+    .conteudo__principal__formacao {
+        width: 100%;
+    }
+
     .apresentacao__imagem__portfolio {
         display: none;
     }
