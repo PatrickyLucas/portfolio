@@ -30,7 +30,7 @@ body {
     align-items: center;
     justify-content: center;
     width: 600;
-    padding: 2% 0% 0% 2%;
+    padding: 2% 2% 2% 2%;
 }
 
 .titulo__cabecalho {
@@ -334,7 +334,7 @@ body {
 
       .cabecalho__menu {
         justify-content: center;
-        gap: 25px;
+        gap: 23px;
     }
 
     .apresentacao__conteudo {
@@ -348,11 +348,11 @@ body {
     }
 
     .apresentacao__imagem {
-        width: 40%;
+        width: 35%;
     }
 
     .apresentacao__conteudo__titulo__principal {
-        font-size: 1rem;
+        font-size: .9rem;
     }
 
     .apresentacao__conteudo__texto__principal {
