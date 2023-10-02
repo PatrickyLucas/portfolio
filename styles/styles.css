@@ -71,7 +71,7 @@ body {
     width: 680px;
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 20px;
 }
 
 .apresentacao_layout {
@@ -154,6 +154,10 @@ body {
 .apresentacao__imagem {
     width: 25%;
     border-radius: 100%;
+}
+
+.lista__espacamento {
+    padding: 1rem;
 }
 
 .apresentacao__imagem__portfolio {
@@ -296,6 +300,7 @@ body {
     .contatos__grid {
         grid-template-columns: 270px 270px;
     }
+
 }
 
 @media (max-width: 700px) {
