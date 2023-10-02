@@ -348,6 +348,16 @@ body {
         font-size: 0.9rem;
     }
 
+    .rodape {
+        font-size: .9rem;
+    }
+
+    .logo__redes__sociais {
+        width: 4vh;
+    }
+
+
+
 }
 
 /* @media (max-width: 1310px) {
