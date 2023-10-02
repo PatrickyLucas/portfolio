@@ -376,7 +376,7 @@ body {
     }
 
     .contatos__grid {
-        grid-template-columns: 180px 160px;
+        grid-template-columns: 150px 150px;
         gap: 1rem;
         margin-top: 1rem;
     }
