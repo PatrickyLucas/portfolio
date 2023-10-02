@@ -305,7 +305,7 @@ body {
 }
 
 
-@media (max-width: 570px) {
+@media (max-width: 610px) {
     .titulo__cabecalho {
         font-size: 3.5rem;
     }
@@ -313,11 +313,19 @@ body {
     .cabecalho__menu__link {
         font-size: .8rem;
       }
+
+    .contatos__grid {
+        grid-template-columns: 240px 240px;
+    }
+
+    .rodape {
+        font-size: 1.2rem;
+    }
 }
 
-@media (max-width: 508px) {
+@media (max-width: 531px) {
     .titulo__cabecalho {
-        font-size: 2.5rem;
+        font-size: 2.8rem;
     }
 
     .cabecalho__menu__link {
@@ -332,15 +340,23 @@ body {
     .apresentacao__imagem__portfolio {
         display: none;
     }
+
+    .contatos__grid {
+        grid-template-columns: 200px 200px;
+    }
+
+    .texto_contatos {
+        font-size: .9rem;
+    }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 460px) {
 
     .cabecalho__menu__link {
         font-size: .9rem;
       }
 
-      .cabecalho__menu {
+    .cabecalho__menu {
         justify-content: center;
         gap: 23px;
     }
@@ -414,6 +430,12 @@ body {
     }
 
 
+}
+
+@media (max-width: 410px) {
+    .titulo__cabecalho {
+        font-size: 2.5rem;
+    }
 }
 
 /* @media (max-width: 1310px) {
