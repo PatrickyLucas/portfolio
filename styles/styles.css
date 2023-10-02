@@ -223,17 +223,21 @@ body {
     margin: 5px;
 }
 
+.texto_contatos {
+    font-size: 1.3rem;
+}
+
 .botão__formulario {
-    width: 120px;
-    height: 80px;
-    font-size: 1.5em;
+    width: 80px;
+    height: 50px;
+    font-size: 1.2em;
     font-weight: 700;
     background-color: var(--cor-secundaria);
 }
 
 .botão__formulario:hover {
-    width: 150px;
-    height: 100px;
+    width: 100px;
+    height: 70px;
     background-color: var(--cor-tercearia);
 }
 
@@ -291,10 +295,6 @@ body {
 
     .contatos__grid {
         grid-template-columns: 270px 270px;
-    }
-
-    .texto_contatos {
-        font-size: 1.3rem;
     }
 }
 
