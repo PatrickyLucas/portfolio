@@ -399,6 +399,10 @@ body {
         font-family: var(--fonte-secundaria);
     }
 
+    .apresentacao__links__navegacao:hover {
+        padding: 3% 4%;
+    }
+
     .contatos__grid {
         grid-template-columns: 200px 200px;
     }
