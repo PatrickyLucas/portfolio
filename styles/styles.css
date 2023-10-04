@@ -98,7 +98,8 @@ body {
     color: var(--cor-tercearia);
 }
 
-.apresentacao__conteudo__texto, .link__email {
+.apresentacao__conteudo__texto,
+.link__email {
     font-size: 1.2rem;
     font-family: var(--fonte-secundaria);
     text-align: center;
@@ -114,7 +115,7 @@ body {
     color: var(--cor-tercearia);
 }
 
-.apresentacao__conteudo__texto a{
+.apresentacao__conteudo__texto a {
     text-decoration: none;
     color: var(--cor-tercearia);
 }
@@ -134,7 +135,7 @@ body {
     font-size: 1.5rem;
 }
 
-.apresentacao__links__navegacao { 
+.apresentacao__links__navegacao {
     display: flex;
     justify-content: center;
     gap: 16px;
@@ -187,10 +188,12 @@ body {
     align-items: start;
     width: 700px;
     gap: 2em;
-    
+
 }
 
-.formacoes, .badges_cisco, .certificado_alura {
+.formacoes,
+.badges_cisco,
+.certificado_alura {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -276,7 +279,7 @@ body {
 
 .logo__redes__sociais:hover {
     width: 12vh;
-    
+
 }
 
 
@@ -284,7 +287,7 @@ body {
     .titulo__cabecalho {
         font-size: 4.7rem;
     }
-    
+
     .conteudo__principal__formacao {
         display: flex;
         flex-direction: column;
@@ -293,17 +296,17 @@ body {
     .formacao {
         width: 100%;
     }
-    
+
     .transparente {
         display: none;
     }
 }
 
 @media (max-width: 800px) {
-    
+
 
     .cabecalho__menu__link {
-      font-size: 1.3rem;
+        font-size: 1.3rem;
     }
 
     .apresentacao {
@@ -325,8 +328,8 @@ body {
     .cabecalho__menu__link {
         font-size: 1rem;
     }
-    
-    .apresentacao__links__navegacao { 
+
+    .apresentacao__links__navegacao {
         display: flex;
         justify-content: center;
         flex-wrap: wrap;
@@ -353,7 +356,7 @@ body {
 
     .cabecalho__menu__link {
         font-size: .8rem;
-      }
+    }
 
     .contatos__grid {
         grid-template-columns: 170px 170px;
@@ -377,7 +380,7 @@ body {
         font-size: 1rem;
     }
 
-      .cabecalho__menu {
+    .cabecalho__menu {
         justify-content: center;
         gap: 25px;
     }
@@ -386,7 +389,7 @@ body {
         display: none;
     }
 
-    .apresentacao__links__navegacao { 
+    .apresentacao__links__navegacao {
         display: flex;
         justify-content: center;
         flex-wrap: wrap;
@@ -420,7 +423,7 @@ body {
 
     .cabecalho__menu__link {
         font-size: .9rem;
-      }
+    }
 
     .cabecalho__menu {
         justify-content: center;
@@ -469,11 +472,11 @@ body {
         font-size: 1.2rem;
     }
 
-    .orientacao__botoes__redes { 
+    .orientacao__botoes__redes {
         gap: 1rem;
     }
 
-    .apresentacao__links__navegacao { 
+    .apresentacao__links__navegacao {
         display: flex;
         justify-content: center;
         flex-wrap: wrap;
