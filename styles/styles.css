@@ -151,6 +151,16 @@ body {
     padding: 4% 3%;
 }
 
+.orientacao__botoes__redes {
+    display: flex;
+    gap: 2rem;
+    padding-bottom: 4%;
+}
+
+.icone__redes {
+    margin: 0;
+}
+
 .apresentacao__imagem {
     width: 25%;
     border-radius: 100%;
