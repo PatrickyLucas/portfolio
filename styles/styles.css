@@ -53,6 +53,10 @@ body {
     text-decoration: none;
 }
 
+.cabecalho__menu__link:hover {
+    color: var(--cor-hover-botoes);
+}
+
 .apresentacao {
     padding: 2% 25%;
     display: flex;
