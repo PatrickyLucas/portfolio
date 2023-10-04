@@ -168,7 +168,7 @@ body {
 
 .conteudo__principal__formacao {
     display: grid;
-    grid-template-columns: 550px 550px;
+    grid-template-columns: 510px 580px;
     justify-content: center;
     align-items: start;
     width: 700px;
