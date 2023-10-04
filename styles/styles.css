@@ -465,6 +465,10 @@ body {
         font-size: 0.9rem;
     }
 
+    .apresentacao__links__subtitulo {
+        font-size: 1.2rem;
+    }
+
     .orientacao__botoes__redes { 
         gap: 1rem;
     }
