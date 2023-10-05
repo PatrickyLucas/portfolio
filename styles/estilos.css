@@ -153,7 +153,9 @@ body {
 
 .apresentacao__links__navegacao:hover {
     background-color: var(--cor-hover-botoes);
-    padding: 4% 3%;
+    /* padding: 4% 3%; */
+    transition: .6s;
+    transform: scale(1.2);
 }
 
 .orientacao__botoes__redes {
@@ -256,7 +258,7 @@ body {
     background-color: var(--cor-secundaria);
 }
 
-.botão__formulario:hover {
+.botão__formulario:active {
     width: 100px;
     height: 70px;
     background-color: var(--cor-tercearia);
