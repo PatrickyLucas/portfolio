@@ -260,6 +260,7 @@ body {
 
 .botão__formulario:hover {
     background-color: var(--cor-hover-botoes);
+    color: var(--cor-secundaria);
 }
 
 .botão__formulario:active {
