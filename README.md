@@ -2,7 +2,6 @@
 
 # Olá, Bem vindo ao meu portfólio.
 
-## Projeto desenvolvido com cursos Alura.
 
 ## Ferramentas utilizadas:
 
@@ -11,6 +10,8 @@
 * CSS
 
 * Flex-box
+
+* Grid
 
 ## Feito por:
 
