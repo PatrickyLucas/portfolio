@@ -411,7 +411,8 @@ body {
     }
 
     .apresentacao__links__navegacao:hover {
-        padding: 10% 8%;
+        transition: .6s;
+        transform: scale(1.2);
     }
 
     .contatos__grid {
@@ -518,9 +519,8 @@ body {
     }
 
     .botão__formulario:hover {
-        width: 75px;
-        height: 50px;
-        background-color: var(--cor-tercearia);
+        transform: scale(1.2);
+        background-color: var(--cor-hover-botoes);
     }
 
     .rodape {
