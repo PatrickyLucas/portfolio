@@ -55,6 +55,7 @@ body {
 
 .cabecalho__menu__link:hover {
     color: var(--cor-hover-botoes);
+    transform: scale(1.2);
 }
 
 .apresentacao {
