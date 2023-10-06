@@ -190,7 +190,7 @@ body {
 
 .conteudo__principal__formacao {
     display: grid;
-    grid-template-columns: 510px 580px;
+    grid-template-columns: 350px 350px 350px;
     justify-content: center;
     align-items: start;
     width: 700px;
@@ -294,6 +294,12 @@ body {
 .logo__redes__sociais:hover {
     transition: .6s;
     transform: scale(1.5);
+}
+
+@media (max-width: 1300px) {
+    .conteudo__principal__formacao {
+        grid-template-columns: 450px 450px;
+    }
 }
 
 
