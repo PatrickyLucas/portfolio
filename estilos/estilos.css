@@ -190,6 +190,16 @@ body {
 
 .conteudo__principal__formacao {
     display: grid;
+    grid-template-columns: 500px 600px;
+    justify-content: center;
+    align-items: start;
+    width: 700px;
+    gap: 2em;
+
+}
+
+.conteudo__principal__portfolio {
+    display: grid;
     grid-template-columns: 350px 350px 350px;
     justify-content: center;
     align-items: start;
@@ -208,8 +218,8 @@ body {
     gap: 2em;
 }
 
-.img__projeto {
-    /* margin: 3.2em; */
+.img_hb{
+    margin: 3.2em;
 }
 
 .img_certificados_alura {
@@ -300,6 +310,11 @@ body {
     .conteudo__principal__formacao {
         grid-template-columns: 450px 450px;
     }
+    
+    .conteudo__principal__portfolio {
+        grid-template-columns: 450px 450px;
+    }
+
 }
 
 
@@ -309,6 +324,11 @@ body {
     }
 
     .conteudo__principal__formacao {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .conteudo__principal__portfolio {
         display: flex;
         flex-direction: column;
     }
