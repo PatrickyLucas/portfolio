@@ -107,12 +107,15 @@
                     alt="" class="logo__redes__sociais"></img></a>
         </div>
     </footer>
-
+<!-- Utilizando evento do DOM para exibir uma mensagem com JavaScript -->
 <script>
+    // Criando constante para acessar o botão enviar através do seu id
     const botao__enviar = document.querySelector('#botao__enviar');
+    // Criando a função que exibirá a mensagem no alert box
     function abrir__alerta(event) {
         alert('Sua mensagem foi enviada com sucesso!')
     }
+    // Adicionando ação ao evento de click do botão enviar
     botao__enviar.addEventListener('click', abrir__alerta);
 </script>
 
