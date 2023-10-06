@@ -80,7 +80,8 @@
                             </tr>
                             <tr>
                                 <td></td>
-                                <td><button type="submit" class="botão__formulario">Enviar</button></td>
+                                <td><button type="submit" class="botão__formulario" id="botao__enviar">Enviar</button></td>
+
                                 <input type="hidden" name="_subject" value="Nova mensagem do portfolio.">
                                 <input type="text" name="_honey" style="display: none">
                                 <input type="hidden" name="_captcha" value="false">
@@ -108,7 +109,11 @@
     </footer>
 
 <script>
-    const botao__enviar = 
+    const botao__enviar = document.querySelector('#botao__enviar');
+    function abrir__alerta(event) {
+        alert('Sua mensagem foi enviada com sucesso!')
+    }
+    botao__enviar.addEventListener('click', abrir__alerta);
 </script>
 
 </body>
