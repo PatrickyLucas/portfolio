@@ -333,6 +333,10 @@ body {
         flex-direction: column;
     }
 
+    .formacao {
+        width: 100%;
+    }
+
     .transparente {
         display: none;
     }
