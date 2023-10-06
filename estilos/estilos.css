@@ -574,4 +574,14 @@ body {
     .titulo__cabecalho {
         font-size: 2.5rem;
     }
+
+@media (max-width: 374px) {
+    .titulo__cabecalho {
+        font-size: 2.3rem;
+    }
+
+    .cabecalho__menu__link {
+        font-size: .8rem;
+    }
+}
 }
