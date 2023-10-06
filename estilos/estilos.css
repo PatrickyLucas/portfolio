@@ -95,6 +95,11 @@ body {
     font-family: var(--fonte-primaria);
 }
 
+.apresentacao__conteudo__subtitulo {
+    font-size: 1.2rem;
+    font-family: var(--fonte-primaria);
+}
+
 .titulo-destaque {
     color: var(--cor-tercearia);
 }
@@ -203,8 +208,8 @@ body {
     gap: 2em;
 }
 
-.img_hb {
-    margin: 3.2em;
+.img__projeto {
+    /* margin: 3.2em; */
 }
 
 .img_certificados_alura {
