@@ -296,14 +296,14 @@ body {
     transform: scale(1.5);
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1200px) {
     .conteudo__principal__formacao {
         grid-template-columns: 450px 450px;
     }
 }
 
 
-@media (max-width: 920px) {
+@media (max-width: 960px) {
     .titulo__cabecalho {
         font-size: 4.7rem;
     }
