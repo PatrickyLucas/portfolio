@@ -288,25 +288,7 @@ body {
     transform: scale(1.3);
 }
 
-.rodape {
-    padding: 24px;
-    color: var(--cor-texto-rodape);
-    background-color: var(--cor-tercearia);
-    text-align: center;
-    font-family: var(--fonte-secundaria);
-    font-size: 1.5rem;
-    font-weight: 400;
-}
 
-.logo__redes__sociais {
-    margin-top: 1em;
-    width: 8vh;
-}
-
-.logo__redes__sociais:hover {
-    transition: .6s;
-    transform: scale(1.5);
-}
 
 @media (max-width: 1200px) {
     .conteudo__principal__formacao {
