@@ -585,13 +585,21 @@ body {
         font-size: .9rem;
     }
 
+    .apresentacao__links__subtitulo {
+        font-size: 1rem;
+    }
+
     .apresentacao__links__navegacao {
         font-size: 0.5rem;
         padding: 13px;
     }
 
     .contatos__grid {
-        grid-template-columns: 180px 130px;
+        grid-template-columns: 160px 120px;
+    }
+
+    .apresentacao__conteudo__titulo {
+        font-size: 0.8rem;
     }
 
     .texto_contatos {
