@@ -190,6 +190,11 @@ body {
     margin-left: 0;
 }
 
+.img__python {
+    /* width: 50%; */
+    height: 5rem;
+}
+
 .conteudo__principal__formacao {
     display: grid;
     grid-template-columns: 500px 600px;
