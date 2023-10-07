@@ -566,14 +566,30 @@ body {
     .titulo__cabecalho {
         font-size: 2.5rem;
     }
+}   
 
 @media (max-width: 374px) {
     .titulo__cabecalho {
-        font-size: 2.3rem;
+        font-size: 2rem;
     }
 
     .cabecalho__menu__link {
         font-size: .8rem;
     }
-}
+
+    .cabecalho__menu {
+        gap: 15px;
+    }
+
+    .apresentacao__conteudo__titulo {
+        font-size: .9rem;
+    }
+
+    .rodape  {
+        font-size: 0.7rem;
+    }
+
+    .logo__redes__sociais {
+        width: 6vh;
+    }
 }
