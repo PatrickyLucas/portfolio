@@ -206,7 +206,7 @@ body {
 
 .conteudo__principal__portfolio {
     display: grid;
-    grid-template-columns: 350px 350px 350px;
+    grid-template-columns: 380px 380px 380px;
     justify-content: center;
     align-items: start;
     width: 700px;
