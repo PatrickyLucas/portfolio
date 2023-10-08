@@ -3,6 +3,7 @@
 
 @import url('rodape.css');
 @import url('cabecalho.css');
+@import url('mediasquery.css');
 
 :root {
     --cor-primaria: #03001C;
@@ -26,8 +27,6 @@ body {
     background-color: var(--cor-primaria);
     color: var(--cor-secundaria);
 }
-
-
 
 .apresentacao {
     padding: 2% 5%;
