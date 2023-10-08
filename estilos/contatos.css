@@ -77,11 +77,6 @@
     text-align: center;
 }
 
-Aplicando estilo ao texto do email e telefone
- {
-    font-size: 1.3rem;
-}
-
 /* Aplicando estilo a cor da fonte e removendo a decoração do texto do email */
 .link__email {
     text-decoration: none;
