@@ -4,6 +4,7 @@
 @import url('cabecalho.css');
 @import url('index.css');
 @import url('formacao.css');
+@import url('portfolio.css');
 @import url('contatos.css');
 @import url('rodape.css');
 @import url('mediasquery.css'); 
@@ -30,37 +31,3 @@ body {
     background-color: var(--cor-primaria);
     color: var(--cor-secundaria);
 }
-
-.apresentacao__conteudo__subtitulo {
-    font-size: 1.2rem;
-    font-family: var(--fonte-primaria);
-}
-
-.lista__espacamento {
-    padding: 1rem;
-}
-
-.apresentacao__imagem__portfolio {
-    width: 40vh;
-    border-radius: 15%;
-    margin-left: 0;
-}
-
-.img__python {
-    height: 5rem;
-}
-
-.img__organizador {
-    margin-bottom: 0.6rem;
-}
-
-.conteudo__principal__portfolio {
-    display: grid;
-    grid-template-columns: 380px 380px 380px;
-    justify-content: center;
-    align-items: start;
-    width: 700px;
-    gap: 2em;
-
-}
-
