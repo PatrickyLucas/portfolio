@@ -4,6 +4,7 @@
 @import url('rodape.css');
 @import url('cabecalho.css');
 @import url('mediasquery.css');
+@import url('contatos.css');
 
 :root {
     --cor-primaria: #03001C;
@@ -263,6 +264,3 @@ body {
 .botão__formulario:active {
     transform: scale(1.3);
 }
-
-
-
