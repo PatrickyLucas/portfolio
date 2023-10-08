@@ -31,7 +31,7 @@
     text-decoration: none;
 }
 
-/* Aplicando hover(passar com o mouse sobre o elemento) nas opções do menu navegação, alterando a cor e aumentando seu tamanho em escala de 1.2% */
+/* Aplicando a pseudo-classe hover(passar com o mouse sobre o elemento) nas opções do menu navegação, alterando a cor e aumentando seu tamanho em escala de 1.2% */
 .cabecalho__menu__link:hover {
     color: var(--cor-hover-botoes);
     transform: scale(1.2);
