@@ -1,4 +1,4 @@
-/* Aplicando */
+/* Aplicando estilo ao rodapé do projeto com plano de fundo de cor diferente */
 .rodape {
     padding: 24px;
     color: var(--cor-texto-rodape);
@@ -9,11 +9,13 @@
     font-weight: 400;
 }
 
+/* Aplicando estilo aos logos das redes sociais com margem para o conteudo superior e tamanho definido */
 .logo__redes__sociais {
     margin-top: 1em;
     width: 8vh;
 }
 
+/* Aplicando hover(passar com o mouse sobre o elemento) nos botões das redes socias, alterando seu tamanho em uma escala de 1.5% em uma transição de 0.6 segundos  */
 .logo__redes__sociais:hover {
     transition: .6s;
     transform: scale(1.5);
