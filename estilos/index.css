@@ -1,3 +1,4 @@
+/* Aplicando estilo a aprensentação principal do projeto */
 .apresentacao {
     padding: 2% 5%;
     display: flex;
@@ -5,6 +6,7 @@
     justify-content: center;
 }
 
+/* Aplicando estilo e definindo diplay flex como coluna dentro de um espaçamento de 800px */
 .apresentacao__conteudo__principal {
     width: 800px;
     display: flex;
@@ -12,26 +14,31 @@
     gap: 40px;
 }
 
+/* Aplicando estilo ao layout do titulo da página sobre mim */
 .apresentacao_layout {
     display: flex;
     align-items: center;
     gap: 2em;
 }
 
+/* Aplicando estilo a imagem de perfil com borda totalmente arredondada e um tamanho padrão */
 .apresentacao__imagem {
     width: 25%;
     border-radius: 100%;
 }
 
+/* Aplicando estilo ao titulo principal da página sobre mim */
 .apresentacao__conteudo__titulo__principal {
     font-size: 2rem;
     font-family: var(--fonte-primaria);
 }
 
+/* Aplicando estilo de destaque com cor diferente do texto principal */
 .titulo-destaque {
     color: var(--cor-tercearia);
 }
 
+/* Aplicando estilo ao texto principal da página principal do projeto */
 .apresentacao__conteudo__texto__principal {
     font-size: 1.4rem;
     font-family: var(--fonte-secundaria);
