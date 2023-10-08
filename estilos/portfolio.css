@@ -6,6 +6,19 @@
     gap: 2em;
 }
 
+.conteudo__principal__portfolio {
+    display: grid;
+    grid-template-columns: 380px 380px 380px;
+    justify-content: center;
+    align-items: start;
+    width: 700px;
+    gap: 2em;
+}
+
+.espacamento {
+    width: 100%;
+}
+
 .apresentacao__conteudo__subtitulo {
     font-size: 1.2rem;
     font-family: var(--fonte-primaria);
@@ -17,14 +30,4 @@
 
 .img__organizador {
     margin-bottom: 0.6rem;
-}
-
-.conteudo__principal__portfolio {
-    display: grid;
-    grid-template-columns: 380px 380px 380px;
-    justify-content: center;
-    align-items: start;
-    width: 700px;
-    gap: 2em;
-
 }
