@@ -15,6 +15,13 @@
     gap: 2em;
 }
 
+/* Aplicando estilo ao titulo dos projeto */
+.apresentacao__conteudo__titulo__projetos {
+    font-size: 1.8rem;
+    font-family: var(--fonte-primaria);
+    margin-bottom: 2rem;
+}
+
 .espacamento {
     width: 100%;
 }

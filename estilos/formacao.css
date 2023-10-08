@@ -6,7 +6,7 @@
     gap: 20px;
 }
 
-/*  */
+/* Aplicando estilo ao conteudo principal da formação, com display grid de duas colunas alinhadas ao centro da página */
 .conteudo__principal__formacao {
     display: grid;
     grid-template-columns: 500px 600px;
@@ -17,6 +17,7 @@
 
 }
 
+/* Aplicando estilo em cada uma das formações com display flex de colunas alinhadas ao centro das divisões */
 .formacoes,
 .badges_cisco,
 .certificado_alura {
@@ -25,12 +26,6 @@
     align-items: center;
     justify-content: center;
     gap: 2em;
-}
-
-.apresentacao__conteudo__titulo__projetos {
-    font-size: 1.8rem;
-    font-family: var(--fonte-primaria);
-    margin-bottom: 2rem;
 }
 
 .apresentacao__conteudo__titulo {
