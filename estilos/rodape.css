@@ -15,7 +15,7 @@
     width: 8vh;
 }
 
-/* Aplicando hover(passar com o mouse sobre o elemento) nos botões das redes socias, alterando seu tamanho em uma escala de 1.5% em uma transição de 0.6 segundos  */
+/* Aplicando a pseudo-classe hover(passar com o mouse sobre o elemento) nos botões das redes socias, alterando seu tamanho em uma escala de 1.5% em uma transição de 0.6 segundos  */
 .logo__redes__sociais:hover {
     transition: .6s;
     transform: scale(1.5);
