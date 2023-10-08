@@ -1,3 +1,4 @@
+/* Aplicando estilo a apresentação dos links das redes sociais */
 .apresentacao__links {
     display: flex;
     flex-direction: column;
@@ -6,18 +7,21 @@
     gap: 32px;
 }
 
+/* Aplicando estilo a fonte dos links das redes sociais */
 .apresentacao__links__subtitulo {
     font-family: var(--fonte-primaria);
     font-weight: 400;
     font-size: 1.5rem;
 }
 
+/* Aplicando a orientação dos botões das redes sociais com o display flex padrão em linha */
 .orientacao__botoes__redes {
     display: flex;
     gap: 2rem;
     padding-bottom: 4%;
 }
 
+/* Aplicando borda e personalizando a apresentação do link com o logo das redes */
 .apresentacao__links__navegacao {
     display: flex;
     justify-content: center;
@@ -34,12 +38,14 @@
     font-family: var(--fonte-secundaria);
 }
 
+/* Aplicando hover(passar com o mouse sobre o elemento) nos botões das redes socias, alterando seu tamanho em uma escala de 1.2% em uma transição de 0.6 segundos */
 .apresentacao__links__navegacao:hover {
     background-color: var(--cor-hover-botoes);
     transition: .6s;
     transform: scale(1.2);
 }
 
+/*  */
 .icone__redes {
     margin: 0;
 }
