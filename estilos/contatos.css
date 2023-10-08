@@ -60,6 +60,18 @@
     gap: 1em;
 }
 
+.apresentacao__conteudo__texto,
+.link__email {
+    font-size: 1.2rem;
+    font-family: var(--fonte-secundaria);
+    text-align: center;
+}
+
+.link__email {
+    text-decoration: none;
+    color: var(--cor-tercearia);
+}
+
 .celular {
     margin-top: 1rem;
 }

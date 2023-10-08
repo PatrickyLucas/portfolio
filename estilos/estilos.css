@@ -36,18 +36,6 @@ body {
     font-family: var(--fonte-primaria);
 }
 
-.apresentacao__conteudo__texto,
-.link__email {
-    font-size: 1.2rem;
-    font-family: var(--fonte-secundaria);
-    text-align: center;
-}
-
-.link__email {
-    text-decoration: none;
-    color: var(--cor-tercearia);
-}
-
 .lista__espacamento {
     padding: 1rem;
 }
