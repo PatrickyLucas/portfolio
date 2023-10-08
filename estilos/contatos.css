@@ -87,6 +87,7 @@
     margin-top: 1rem;
 }
 
+/* Aplicando estilo ao formulário com o display flex de coluna utilizando todas as colunas do grid dos contatos */
 .formulario {
     display: flex;
     flex-direction: column;
