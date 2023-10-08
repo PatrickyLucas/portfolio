@@ -120,7 +120,7 @@
     color: var(--cor-secundaria);
 }
 
-/* Aplicando a pseudo-classe */
+/* Aplicando a pseudo-classe active(clicar no elemento) ao botão enviar do formulário para que ao clicar no botão ele aumente seu tamanho em uma escala de 1.3% indicando o clique */
 .botão__formulario:active {
     transform: scale(1.3);
 }
