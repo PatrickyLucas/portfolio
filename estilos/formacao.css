@@ -1,0 +1,36 @@
+.apresentacao__conteudo {
+    width: 680px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.conteudo__principal__formacao {
+    display: grid;
+    grid-template-columns: 500px 600px;
+    justify-content: center;
+    align-items: start;
+    width: 700px;
+    gap: 2em;
+
+}
+
+.formacoes,
+.badges_cisco,
+.certificado_alura {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2em;
+}
+
+.apresentacao__conteudo__titulo {
+    font-size: 1.4rem;
+    font-family: var(--fonte-primaria);
+}
+
+.apresentacao__conteudo__texto a {
+    text-decoration: none;
+    color: var(--cor-tercearia);
+}
