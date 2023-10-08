@@ -38,7 +38,7 @@
     font-family: var(--fonte-secundaria);
 }
 
-/* Aplicando hover(passar com o mouse sobre o elemento) nos botões das redes socias, alterando seu tamanho em uma escala de 1.2% em uma transição de 0.6 segundos */
+/* Aplicando a pseudo-classe hover(passar com o mouse sobre o elemento) nos botões das redes socias, alterando seu tamanho em uma escala de 1.2% em uma transição de 0.6 segundos */
 .apresentacao__links__navegacao:hover {
     background-color: var(--cor-hover-botoes);
     transition: .6s;
@@ -105,7 +105,7 @@
     margin: 5px;
 }
 
-/* Aplicando estilo ao botão do formulário para destacar dos demais botões da página */
+/* Aplicando estilo ao botão enviar do formulário para destacar dos demais botões da página */
 .botão__formulario {
     width: 80px;
     height: 50px;
@@ -114,12 +114,13 @@
     background-color: var(--cor-secundaria);
 }
 
-/*  */
+/* Aplicando a pseudo-classe hover(passar com o mouse sobre o elemento) ao botão enviar do formulário para que ao passar o mouse por cima ele mude de cor */
 .botão__formulario:hover {
     background-color: var(--cor-hover-botoes);
     color: var(--cor-secundaria);
 }
 
+/* Aplicando a pseudo-classe */
 .botão__formulario:active {
     transform: scale(1.3);
 }
