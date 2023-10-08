@@ -39,10 +39,7 @@ body {
     gap: 20px;
 }
 
-.apresentacao__conteudo__titulo__principal {
-    font-size: 2rem;
-    font-family: var(--fonte-primaria);
-}
+
 
 .apresentacao__conteudo__titulo {
     font-size: 1.4rem;

@@ -23,6 +23,11 @@
     border-radius: 100%;
 }
 
+.apresentacao__conteudo__titulo__principal {
+    font-size: 2rem;
+    font-family: var(--fonte-primaria);
+}
+
 .titulo-destaque {
     color: var(--cor-tercearia);
 }
