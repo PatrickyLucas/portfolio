@@ -1,3 +1,4 @@
+/* Aplicando estilo ao cabecalho com display flex de colunas */
 .cabecalho {
     display: flex;
     flex-direction: column;
@@ -7,18 +8,21 @@
     padding: 4% 2% 2% 2%;
 }
 
+/* Aplicando estilo ao titulo principal do projeto */
 .titulo__cabecalho {
     font-size: 5em;
     font-family: var(--fonte-titulo);
     text-align: center;
 }
 
+/* Aplicando estilo no menu de navegação do projeto com display flex row */
 .cabecalho__menu {
     display: flex;
     gap: 80px;
     margin-top: 1%;
 }
 
+/* Aplicando estilo ao link do menu navegação removendo a decoração do link */
 .cabecalho__menu__link {
     font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
@@ -27,6 +31,7 @@
     text-decoration: none;
 }
 
+/* Aplicando hover nas opções do menu navegação, alterando a cor e aumentando seu tamanho em escala de 1.2% */
 .cabecalho__menu__link:hover {
     color: var(--cor-hover-botoes);
     transform: scale(1.2);
