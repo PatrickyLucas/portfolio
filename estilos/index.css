@@ -34,7 +34,7 @@
 }
 
 /* Aplicando estilo de destaque com cor diferente do texto principal */
-.titulo-destaque {
+.titulo__destaque {
     color: var(--cor-tercearia);
 }
 
