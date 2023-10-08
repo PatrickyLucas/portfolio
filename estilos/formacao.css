@@ -6,7 +6,7 @@
     gap: 20px;
 }
 
-/* Aplicando estilo ao conteudo principal da formação, com display grid de duas colunas alinhadas ao centro da página */
+/* Aplicando estilo ao conteudo da formação, com display grid de 2 colunas alinhadas ao centro da página */
 .conteudo__principal__formacao {
     display: grid;
     grid-template-columns: 500px 600px;
