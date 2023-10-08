@@ -19,8 +19,8 @@
 
 /* Aplicando estilo em cada uma das formações com display flex de colunas alinhadas ao centro das divisões */
 .formacoes,
-.badges_cisco,
-.certificado_alura {
+.badges__cisco,
+.certificado__alura {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -28,12 +28,14 @@
     gap: 2em;
 }
 
+/* Aplicando estilo ao titulo do conteudo da página */
 .apresentacao__conteudo__titulo {
     font-size: 1.4rem;
     font-family: var(--fonte-primaria);
 }
 
-.img_hb{
+/* Definindo margem para imagem que está com tamanho menor que as demais */
+.img__hb{
     margin: 3.2em;
 }
 
