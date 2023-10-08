@@ -13,6 +13,8 @@
 
 * Grid
 
+* JavaScript
+
 ## Feito por:
 
 ### Patricky Lucas de Freitas
