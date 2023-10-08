@@ -1,0 +1,55 @@
+.contatos__grid {
+    display: grid;
+    grid-template-columns: 400px 400px;
+    justify-content: center;
+    align-items: start;
+    gap: 3em;
+}
+
+.contatos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+}
+
+.celular {
+    margin-top: 1rem;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    gap: 1em;
+}
+
+.texto__formulario {
+    font-size: 1.4em;
+    margin: 5px;
+}
+
+.texto_contatos {
+    font-size: 1.3rem;
+}
+
+.botão__formulario {
+    width: 80px;
+    height: 50px;
+    font-size: 1.2em;
+    font-weight: 700;
+    background-color: var(--cor-secundaria);
+}
+
+.botão__formulario:hover {
+    background-color: var(--cor-hover-botoes);
+    color: var(--cor-secundaria);
+}
+
+.botão__formulario:active {
+    transform: scale(1.3);
+}
