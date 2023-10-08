@@ -70,10 +70,16 @@
 
 /* Aplicando estilo aos textos do email e telefone nos contatos */
 .apresentacao__conteudo__texto,
-.link__email {
-    font-size: 1.2rem;
+.link__email,
+.texto__contatos {
+    font-size: 1.3rem;
     font-family: var(--fonte-secundaria);
     text-align: center;
+}
+
+Aplicando estilo ao texto do email e telefone
+ {
+    font-size: 1.3rem;
 }
 
 /* Aplicando estilo a cor da fonte e removendo a decoração do texto do email */
@@ -98,13 +104,10 @@
     gap: 1em;
 }
 
+/* Aplicando estilo ao texto digitado pelo usuário no formulário */
 .texto__formulario {
     font-size: 1.4em;
     margin: 5px;
-}
-
-.texto_contatos {
-    font-size: 1.3rem;
 }
 
 .botão__formulario {
