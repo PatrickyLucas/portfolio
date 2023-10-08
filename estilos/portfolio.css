@@ -35,12 +35,12 @@
     font-family: var(--fonte-primaria);
 }
 
-/* Definindo altura para imagem que está com altura menor que as demais */
+/* Aplicando altura para imagem que está com altura menor que as demais */
 .img__python {
     height: 5rem;
 }
 
-/* Definindo margem em baixo da imagem, para imagem que está com tamanho menor que as demais */
+/* Aplicando margem em baixo da imagem, para imagem que está com tamanho menor que as demais */
 .img__organizador {
     margin-bottom: 0.6rem;
 }
