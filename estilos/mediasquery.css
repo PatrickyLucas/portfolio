@@ -339,7 +339,7 @@
     }
 }
 
-@media (max-width: 260px) {
+@media (max-width: 320px) {
     .titulo__cabecalho {
         font-size: 1.6rem;
     }
