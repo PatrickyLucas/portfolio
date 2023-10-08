@@ -1,6 +1,8 @@
+/* Importando fontes do Google Fontes para o projeto */
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=Great+Vibes&display=swap');
 
+/* Importando os arquivos css do projeto para o arquivo estilos.css */
 @import url('cabecalho.css');
 @import url('index.css');
 @import url('formacao.css');
@@ -9,6 +11,7 @@
 @import url('rodape.css');
 @import url('mediasquery.css'); 
 
+/* Declarando variáveis com padrão de cores e fontes */
 :root {
     --cor-primaria: #03001C;
     --cor-secundaria: #B6EADA;
@@ -21,11 +24,13 @@
     --fonte-secundaria: 'Montserrat', sans-serif;
 }
 
+/* Eliminado margin e padding do arquivo html */
 * {
     margin: 0 auto;
     padding: 0;
 }
 
+/* Aplicando plano de fundo e cor padrão das fontes */
 body {
     box-sizing: border-box;
     background-color: var(--cor-primaria);
