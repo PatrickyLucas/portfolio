@@ -94,6 +94,10 @@
         font-size: 1rem;
     }
 
+    .apresentacao__conteudo__titulo__projetos {
+        font-size: 1.5rem;
+    }
+
     .contatos__grid {
         grid-template-columns: 200px 200px;
     }
@@ -115,6 +119,10 @@
     .cabecalho__menu {
         justify-content: center;
         gap: 25px;
+    }
+
+    .apresentacao__conteudo__titulo__projetos {
+        font-size: 1.3rem;
     }
 
     .apresentacao__imagem__portfolio {
@@ -270,6 +278,10 @@
     .titulo__cabecalho {
         font-size: 2.5rem;
     }
+
+    .apresentacao__conteudo__titulo__projetos {
+        font-size: 1rem;
+    }
 }   
 
 @media (max-width: 374px) {
@@ -283,6 +295,10 @@
 
     .cabecalho__menu {
         gap: 15px;
+    }
+
+    .apresentacao__conteudo__titulo__projetos {
+        font-size: .9rem;
     }
 
     .apresentacao__conteudo__titulo {
