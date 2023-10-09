@@ -71,7 +71,88 @@
 }
 
 @media (min-width: 768px) {
-    
+    .titulo__cabecalho {
+        font-size: 5rem;
+    }
+
+    .cabecalho__menu__link {
+        font-size: 2rem;
+    }
+
+    .cabecalho__menu {
+        gap: 30px;
+        margin-bottom: 1.5rem;
+    }
+
+    .apresentacao__links__subtitulo {
+        font-size: 2rem;
+    }
+
+    .orientacao__botoes__redes {
+        display: flex;
+        gap: 3rem;
+        padding-bottom: 2rem;
+        flex-direction: row;
+    }
+
+    .apresentacao__links__navegacao {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 2px solid var(--cor-tercearia);
+        width: 50%;
+        text-align: center;
+        border-radius: 8px;
+        font-size: 1.3rem;
+        font-weight: 600;
+        padding: 20px;
+        text-decoration: none;
+        color: var(--cor-secundaria);
+        font-family: var(--fonte-secundaria);
+    }
+
+    .icone__redes {
+        margin-right: 1rem;
+    }
+
+    .contatos__grid {
+        grid-template-columns: 420px 300px;
+    }
+
+    .apresentacao__conteudo__titulo {
+        font-size: 1.6rem;
+        margin: 1rem;
+    }
+
+    .texto__contatos {
+        font-size: 1.5rem;
+    }
+
+    .apresentacao__conteudo__texto {
+        font-size: 1.2rem;
+    }
+
+    .texto__formulario {
+        font-size: 1.5rem;
+    }
+
+    .botão__formulario {
+        width: 90px;
+        height: 60px;
+        font-size: 1.3em;
+        font-weight: 700;
+        background-color: var(--cor-secundaria);
+    }
+
+    .rodape  {
+        font-size: 1.5rem;
+    }
+
+    .logo__redes__sociais {
+        margin: 0.5em;
+        width: 8vh;
+    }
+
 }
 
 
