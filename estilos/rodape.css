@@ -1,5 +1,6 @@
 /* Aplicando estilo ao rodapé do projeto com plano de fundo de cor diferente */
 .rodape {
+    margin-top: 3rem;
     padding: 16px;
     color: var(--cor-texto-rodape);
     background-color: var(--cor-tercearia);
