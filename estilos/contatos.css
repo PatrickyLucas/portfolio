@@ -97,7 +97,6 @@
     grid-column-start: 1;
     grid-column-end: 3;
     gap: 1em;
-    grid-column: ;
 }
 
 /* Aplicando estilo ao texto digitado pelo usuário no formulário */
