@@ -54,10 +54,10 @@
 /* Aplicando estilo ao conteudo dos contatos, com display grid de 2 colunas alinhadas ao centro da pagina */
 .contatos__grid {
     display: grid;
-    grid-template-columns: 400px 400px;
+    grid-template-columns: 170px 120px;
     justify-content: center;
     align-items: start;
-    gap: 3em;
+    gap: 1em;
 }
 
 /* Aplicando estilo a apresentação dos contatos por email e telefone */
@@ -66,14 +66,13 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 1em;
 }
 
 /* Aplicando estilo aos textos do email e telefone nos contatos */
 
 .link__email,
 .texto__contatos {
-    font-size: 1.3rem;
+    font-size: .8rem;
     font-family: var(--fonte-secundaria);
     text-align: center;
 }
@@ -98,19 +97,20 @@
     grid-column-start: 1;
     grid-column-end: 3;
     gap: 1em;
+    grid-column: ;
 }
 
 /* Aplicando estilo ao texto digitado pelo usuário no formulário */
 .texto__formulario {
-    font-size: 1.4em;
+    font-size: 1em;
     margin: 5px;
 }
 
 /* Aplicando estilo ao botão enviar do formulário para destacar dos demais botões da página */
 .botão__formulario {
-    width: 80px;
-    height: 50px;
-    font-size: 1.2em;
+    width: 50px;
+    height: 30px;
+    font-size: .8em;
     font-weight: 700;
     background-color: var(--cor-secundaria);
 }
