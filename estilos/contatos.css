@@ -11,28 +11,29 @@
 .apresentacao__links__subtitulo {
     font-family: var(--fonte-primaria);
     font-weight: 400;
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 
 /* Aplicando a orientação dos botões das redes sociais com o display flex padrão em linha */
 .orientacao__botoes__redes {
     display: flex;
-    gap: 2rem;
-    padding-bottom: 4%;
+    gap: .5rem;
+    padding-bottom: 2rem;
+    flex-direction: row;
 }
 
 /* Aplicando borda e personalizando a apresentação do link com o logo das redes */
 .apresentacao__links__navegacao {
     display: flex;
     justify-content: center;
-    gap: 16px;
+    align-items: center;
     border: 2px solid var(--cor-tercearia);
     width: 50%;
     text-align: center;
     border-radius: 8px;
-    font-size: 1.5rem;
+    font-size: .6rem;
     font-weight: 600;
-    padding: 21.5px;
+    padding: 5.5px;
     text-decoration: none;
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
