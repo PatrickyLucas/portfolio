@@ -121,6 +121,20 @@
         font-size: 1.5rem;
     }
 
+    .divisoria {
+        display: none;
+    }
+
+    .apresentacao__conteudo__subtitulo {
+        font-size: 1rem;
+    }
+
+    .conteudo__principal__portfolio {
+        display: grid;
+        grid-template-columns: 340px 370px;
+        gap: 2rem;
+    } 
+
     .orientacao__botoes__redes {
         display: flex;
         gap: 3rem;
@@ -153,8 +167,7 @@
     }
 
     .apresentacao__conteudo__titulo {
-        font-size: 2rem;
-        margin: 1rem;
+        font-size: 1.2rem;
     }
 
     .texto__contatos {
@@ -162,7 +175,7 @@
     }
 
     .apresentacao__conteudo__texto {
-        font-size: 1.2rem;
+        font-size: .7rem;
     }
 
     .texto__formulario {

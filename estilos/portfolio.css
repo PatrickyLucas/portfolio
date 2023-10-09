@@ -5,6 +5,8 @@
     align-items: center;
     justify-content: center;
     gap: 2em;
+    padding: .5rem;
+    border: 1px solid;
 }
 
 /* Aplicando estilo ao conteudo da página, com display grid de 3 colunas alinhadas ao centro da página */
@@ -38,14 +40,4 @@
 .img__projeto {
     margin: 0 auto;
     width: 100%;
-}
-
-/* Aplicando altura para imagem que está com altura menor que as demais */
-.img__python {
-    height: 5rem;
-}
-
-/* Aplicando margem em baixo da imagem, para imagem que está com tamanho menor que as demais */
-.img__organizador {
-    margin-bottom: 0.6rem;
 }
