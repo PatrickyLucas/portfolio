@@ -8,18 +8,18 @@
 }
 
 /* Aplicando estilo ao conteudo da página, com display grid de 3 colunas alinhadas ao centro da página */
-.conteudo__principal__portfolio {
+/* .conteudo__principal__portfolio {
     display: grid;
     grid-template-columns: 380px 380px 380px;
     justify-content: center;
     align-items: start;
     width: 700px;
     gap: 2em;
-}
+} */
 
 /* Aplicando estilo ao titulo dos projeto */
 .apresentacao__conteudo__titulo__projetos {
-    font-size: 1.8rem;
+    font-size: .9rem;
     font-family: var(--fonte-primaria);
     margin-bottom: 2rem;
 }
@@ -31,8 +31,13 @@
 
 /* Aplicando estilo dos subtitulos da página */
 .apresentacao__conteudo__subtitulo {
-    font-size: 1.2rem;
+    font-size: .8rem;
     font-family: var(--fonte-primaria);
+}
+
+.img__projeto {
+    margin: 0 auto;
+    width: 100%;
 }
 
 /* Aplicando altura para imagem que está com altura menor que as demais */
