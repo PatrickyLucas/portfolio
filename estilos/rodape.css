@@ -1,18 +1,22 @@
 /* Aplicando estilo ao rodapé do projeto com plano de fundo de cor diferente */
 .rodape {
-    padding: 24px;
+    padding: 16px;
     color: var(--cor-texto-rodape);
     background-color: var(--cor-tercearia);
     text-align: center;
     font-family: var(--fonte-secundaria);
-    font-size: 1.5rem;
+    font-size: .8rem;
     font-weight: 400;
+}
+
+.logo__redes__sociais {
+    
 }
 
 /* Aplicando estilo aos logos das redes sociais com margem para o conteudo superior e tamanho definido */
 .logo__redes__sociais {
-    margin-top: 1em;
-    width: 8vh;
+    margin: .7em;
+    width: 6vh;
 }
 
 /* Aplicando a pseudo-classe hover(passar com o mouse sobre o elemento) nos botões das redes socias, alterando seu tamanho em uma escala de 1.5% em uma transição de 0.6 segundos  */
