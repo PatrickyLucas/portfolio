@@ -42,4 +42,5 @@
 .apresentacao__conteudo__texto__principal {
     font-size: 1.4rem;
     font-family: var(--fonte-secundaria);
+    text-align: justify;
 }
