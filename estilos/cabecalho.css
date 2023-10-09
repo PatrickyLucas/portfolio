@@ -36,3 +36,7 @@
     color: var(--cor-hover-botoes);
     transform: scale(1.2);
 }
+
+.cabecalho>.divisoria {
+    width: 100vw;
+}

@@ -72,11 +72,11 @@
 
 @media (min-width: 768px) {
     .titulo__cabecalho {
-        font-size: 5.2rem;
+        font-size: 5rem;
     }
 
     .cabecalho__menu__link {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
 
     .cabecalho__menu {
@@ -200,6 +200,11 @@
     .cabecalho__menu {
         gap: 50px;
         margin-bottom: 1.5rem;
+    }
+
+    .apresentacao {
+        width: 1024px;
+        margin: 0 auto;
     }
 
     .apresentacao__conteudo__titulo__principal {
