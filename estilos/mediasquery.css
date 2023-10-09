@@ -188,4 +188,39 @@
 
 }
 
+@media (min-width: 768px) {
+    .titulo__cabecalho {
+        font-size: 7rem;
+    }
 
+    .cabecalho__menu__link {
+        font-size: 2.5rem;
+    }
+
+    .cabecalho__menu {
+        gap: 40px;
+        margin-bottom: 1.5rem;
+    }
+
+    .apresentacao__conteudo__titulo__principal {
+        font-size: 2.5rem;
+    } 
+
+
+    .apresentacao_layout {
+        gap: 4rem;
+    }
+
+    .apresentacao__conteudo__texto__principal {
+        font-size: 1.6rem;
+    }
+    
+    .rodape  {
+        font-size: 1.8rem;
+    }
+
+    .logo__redes__sociais {
+        width: 10vh;
+    }
+
+}
