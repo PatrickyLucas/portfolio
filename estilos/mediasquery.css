@@ -175,8 +175,7 @@
     }
 
     .apresentacao__conteudo__texto {
-        font-size: .8rem;
-        padding: 1rem;
+        font-size: .9rem;
     }
 
     .texto__formulario {
@@ -225,17 +224,12 @@
         font-size: 2.5rem;
     } 
 
-
     .apresentacao_layout {
         gap: 4rem;
     }
 
     .apresentacao__conteudo__texto__principal {
         font-size: 1.6rem;
-    }
-
-    .apresentacao__conteudo__texto {
-        font-size: .9rem;
     }
 
     .rodape  {
