@@ -37,6 +37,10 @@
     transform: scale(1.2);
 }
 
-.cabecalho>.divisoria {
+
+.cabecalho>hr {
+    border-color: var(--cor-secundaria);
+    margin: 1rem;
     width: 100vw;
+    display: block;
 }

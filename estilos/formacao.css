@@ -58,11 +58,6 @@
     margin-bottom: 1rem;
 }
 
-.divisoria {
-    margin: 2rem 0;
-    border-color: var(--cor-tercearia);
-}
-
 /* Aplicando estilo transparente ao item que esta sendo utilizado como titulo para deixar o alinhamento do grid em harmonia  */
 .transparente {
     color: transparent;
