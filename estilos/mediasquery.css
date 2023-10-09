@@ -216,7 +216,7 @@
     }
 
     .apresentacao {
-        width: 1024px;
+        width: 870px;
         margin: 0 auto;
     }
 
@@ -231,6 +231,10 @@
 
     .apresentacao__conteudo__texto__principal {
         font-size: 1.6rem;
+    }
+
+    .apresentacao__conteudo__texto {
+        font-size: 1.2rem;
     }
 
     .rodape  {
