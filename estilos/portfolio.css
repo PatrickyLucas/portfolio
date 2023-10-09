@@ -26,9 +26,9 @@
     margin-bottom: 2rem;
 }
 
-/* Aplicando estilo de espaçamento do conteudo da página em 100% */
-.espacamento {
-    width: 100%;
+.divisoria {
+    margin: .5rem;
+    border-color: var(--cor-secundaria);
 }
 
 /* Aplicando estilo dos subtitulos da página */
