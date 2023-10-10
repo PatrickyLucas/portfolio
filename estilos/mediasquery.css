@@ -150,10 +150,12 @@
         font-size: 1.5rem;
     }
 
+    /* Alterando o display da divisória para não ser mais exibido na tela */
     .divisoria {
         display: none;
     }
 
+    
     .apresentacao__conteudo__subtitulo {
         font-size: 1rem;
     }
