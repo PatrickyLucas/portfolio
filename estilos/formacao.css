@@ -39,6 +39,9 @@
 .img__uninter {
     width: 20vh;
 }
+.img__certificados__alura {
+    width: 30vh;
+}
 
 /* Aplicando estilo aos links adicionados ao projeto, removendo decorações e aplicando fonte */
 .apresentacao__conteudo__texto {
@@ -52,9 +55,4 @@
 /* Aplicando estilo transparente ao item que esta sendo utilizado como titulo para deixar o alinhamento do grid em harmonia  */
 .transparente {
     color: transparent;
-}
-
-/* Aplicando estilo a imagem do certificado para que fique dentro dos padrões da página */
-.img__certificados__alura {
-    width: 30vh;
 }
