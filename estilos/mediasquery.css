@@ -125,6 +125,7 @@
         font-size: 1.3rem;
     }
 
+    /* Alterando tamanho da imagem que está com tamanho menor que as demais */
     .img__hb {
         width: 33vh;
         height: 26.5vh;
