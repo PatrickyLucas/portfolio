@@ -190,6 +190,7 @@
         padding: 20px;
     }
 
+    /* Alterando margem a direita dos icones das redes sociais dentro dos botões */
     .icone__redes {
         margin-right: 1rem;
     }
