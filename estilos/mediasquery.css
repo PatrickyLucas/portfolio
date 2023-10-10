@@ -64,11 +64,11 @@
         gap: 25px;
     }
 
-    /* Alterando espaçamento do layout */
+    /* Alterando espaçamento do layout da página */
     .apresentacao_layout {
         gap: 2rem;
     }
-
+      
     .rodape  {
         font-size: 0.9rem;
     }
