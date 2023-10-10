@@ -46,6 +46,7 @@
 
 }
 
+/* Aplicando estilo para telas maiores que 425px */
 @media (min-width: 425px) {
 
     .titulo__cabecalho {
