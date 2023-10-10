@@ -51,7 +51,7 @@
     margin: 0;
 }
 
-/* Aplicando estilo ao conteudo dos contatos, com display grid de 2 colunas alinhadas ao centro da pagina */
+/* Aplicando estilo ao conteúdo dos contatos, com display grid de 2 colunas alinhadas ao centro da pagina */
 .contatos__grid {
     display: grid;
     grid-template-columns: 170px 120px;
