@@ -41,15 +41,17 @@
         font-size: 0.6rem;
     }
 
-    /* Alterando tamanho dos textos dos contatos */
+    /* Alterando tamanho da fonte dos textos dos contatos */
     .texto__contatos {
         font-size: 0.75rem;
     }
 
+    /* Alterando tamanho da fonte dos textos digitados pelo usuário no formulário */
     .texto__formulario {
         font-size: 0.9rem;
     }
 
+    /* AAlterando tamanho da fonte dos textos do rodapé */
     .rodape  {
         font-size: 0.8rem;
     }
