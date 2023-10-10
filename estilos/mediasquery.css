@@ -260,7 +260,8 @@
 }
 
 /* Aplicando estilo para telas maiores que 1440px */
-@media (min-width: 1440px) {
+@media (min-width: 1440px) {    
+    /* Aplicando layout de grid com 3 colunas */
     .conteudo__principal__portfolio {
         grid-template-columns: 340px 370px 350px;
     }
