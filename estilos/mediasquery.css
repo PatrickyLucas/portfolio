@@ -155,7 +155,7 @@
         display: none;
     }
 
-    /* Alterando display para grid com 2 colunas */
+    /* Alterando display da página formação para grid com 2 colunas */
     .conteudo__principal__formacao {
         display: grid;
         grid-template-columns: 360px 370px;
@@ -169,6 +169,7 @@
         justify-content: start;
     }
 
+    /* Alterando display da página portfólio para grid com 2 colunas */
     .conteudo__principal__portfolio {
         display: grid;
         grid-template-columns: 340px 370px;
