@@ -254,6 +254,7 @@
         margin-bottom: 1.5rem;
     }
 
+    /* Alterando tamanho total do conteúdo em 870px da tela */
     .apresentacao {
         width: 870px;
         margin: 0 auto;
