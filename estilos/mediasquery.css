@@ -89,6 +89,7 @@
 
 /* Aplicando estilo para telas maiores que 768px */
 @media (min-width: 768px) {
+    /* Alterando tamanho da fonte do titulo principal */
     .titulo__cabecalho {
         font-size: 4.5rem;
     }
