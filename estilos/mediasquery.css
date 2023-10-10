@@ -15,6 +15,7 @@
         gap: 20px;
     }
 
+    /* Alterando tamanho da fonte do titulo dos projetos */
     .apresentacao__conteudo__titulo__projetos {
         font-size: 1rem;
     }
