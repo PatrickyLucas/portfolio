@@ -129,6 +129,12 @@
         font-size: 1rem;
     }
 
+    .conteudo__principal__formacao {
+        display: grid;
+        grid-template-columns: 340px 370px;
+        gap: 2rem;
+    }
+
     .conteudo__principal__portfolio {
         display: grid;
         grid-template-columns: 340px 370px;
