@@ -248,6 +248,7 @@
         font-size: 2.3rem;
     }
 
+    /* Alterando espaçamento dos itens do menu navegação */
     .cabecalho__menu {
         gap: 50px;
         margin-bottom: 1.5rem;
