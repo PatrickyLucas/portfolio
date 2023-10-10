@@ -7,15 +7,6 @@
     justify-content: center;
 }
 
-/* Aplicando estilo ao conteudo da formação, com display grid de 2 colunas alinhadas ao centro da página */
-/* .conteudo__principal__formacao {
-    display: grid;
-    grid-template-columns: 120px 230px;
-    justify-content: center;
-    align-items: start;
-    gap: 1em;
-
-} */
 
 .conteudo__principal__formacao {
     display: flex;
