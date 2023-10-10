@@ -155,11 +155,6 @@
         display: none;
     }
 
-    
-    .apresentacao__conteudo__subtitulo {
-        font-size: 1rem;
-    }
-
     .conteudo__principal__formacao {
         display: grid;
         grid-template-columns: 360px 370px;
