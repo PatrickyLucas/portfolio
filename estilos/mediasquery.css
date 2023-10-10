@@ -105,6 +105,7 @@
         margin-bottom: 1.5rem;
     }
 
+    /* Alterando tamanho da fonte do titulo do conteúdo principal */
     .apresentacao__conteudo__titulo__principal {
         font-size: 2rem;
     } 
