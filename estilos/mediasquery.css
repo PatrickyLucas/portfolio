@@ -205,10 +205,12 @@
         font-size: 1.5rem;
     }
 
+    /* Alterando tamanho da fonte dos textos dos conteúdos da página */
     .apresentacao__conteudo__texto {
         font-size: .9rem;
     }
 
+    /* Alterando tamanho da fonte do número de celular */
     .celular {
         font-size: 1.5rem;
     }
