@@ -20,11 +20,13 @@
         font-size: 1rem;
     }
 
+    /* Alterando tamanho da fonte dos links da navegação */
     .apresentacao__links__navegacao {
         font-size: 0.5rem;
         padding: 13px;
     }
 
+    
     .contatos__grid {
         grid-template-columns: 160px 140px;
     }
