@@ -1,15 +1,16 @@
 /* Aplicando estilo para telas maiores que 375px */
 @media (min-width: 375px) {
-    /* Alterando fonte do titulo do cabeçalho */
+    /* Alterando tamanho da fonte do titulo do cabeçalho */
     .titulo__cabecalho {
         font-size: 2.5rem;
     }
 
-    /* Alterando fonte do menu navegação */
+    /* Alterando tamanho da fonte do menu navegação */
     .cabecalho__menu__link {
         font-size: .9rem;
     }
 
+    /* Alterando espaçamento dos itens do menu navegação */
     .cabecalho__menu {
         gap: 20px;
     }
