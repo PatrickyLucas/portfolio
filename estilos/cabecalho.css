@@ -15,7 +15,7 @@
     text-align: center;
 }
 
-/* Aplicando estilo no menu de navegação do projeto com display flex row */
+/* Aplicando estilo no menu de navegação do projeto com display flex */
 .cabecalho__menu {
     display: flex;
     gap: 10px;
