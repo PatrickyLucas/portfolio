@@ -218,6 +218,7 @@
 
 }
 
+/* Aplicando estilo para telas maiores que 1024px */
 @media (min-width: 1024px) {
     .titulo__cabecalho {
         font-size: 6rem;
