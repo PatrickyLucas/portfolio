@@ -131,8 +131,14 @@
 
     .conteudo__principal__formacao {
         display: grid;
-        grid-template-columns: 340px 370px;
+        grid-template-columns: 360px 370px;
         gap: 2rem;
+    }
+    
+    .formacoes,
+    .badges__cisco,
+    .certificado__alura {
+        justify-content: start;
     }
 
     .conteudo__principal__portfolio {
