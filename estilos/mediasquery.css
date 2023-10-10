@@ -259,6 +259,7 @@
 
 }
 
+/* Aplicando estilo para telas maiores que 1440px */
 @media (min-width: 1440px) {
     .conteudo__principal__portfolio {
         grid-template-columns: 340px 370px 350px;
