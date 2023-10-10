@@ -39,8 +39,8 @@
 
 
 .cabecalho>hr {
-    border-color: var(--cor-secundaria);
     margin: .1rem;
     width: 98.8vw;
     display: block;
+    border: 3px solid var(--cor-secundaria);
 }
