@@ -110,6 +110,7 @@
         font-size: 2rem;
     } 
     
+    /* Alterando margem a esquerda da imagem principal */
     .apresentacao__imagem {
         margin-left: 2.5rem;
     }
