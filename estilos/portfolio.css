@@ -35,6 +35,7 @@
     font-family: var(--fonte-primaria);
 }
 
+/* Definindo margem e tamanho máximo das imagems adicionadas dos projetos */
 .img__projeto {
     margin: 0 auto;
     width: 100%;
