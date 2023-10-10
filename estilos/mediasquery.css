@@ -229,6 +229,7 @@
         background-color: var(--cor-secundaria);
     }
 
+    /* Alterando tamanho da fonte dos textos do rodapé */
     .rodape  {
         font-size: 1.5rem;
     }
