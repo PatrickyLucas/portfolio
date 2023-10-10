@@ -215,11 +215,12 @@
         font-size: 1.5rem;
     }
 
-
+    /* Alterando tamanho da fonte dos textos digitados pelo usuário no formulário */
     .texto__formulario {
         font-size: 1.5rem;
     }
 
+    /*  */
     .botão__formulario {
         width: 90px;
         height: 60px;
