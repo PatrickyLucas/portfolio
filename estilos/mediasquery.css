@@ -195,6 +195,7 @@
         margin-right: 1rem;
     }
 
+    /* Ajustando display do grid dos contatos */
     .contatos__grid {
         grid-template-columns: 420px 300px;
     }
