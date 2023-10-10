@@ -200,6 +200,7 @@
         grid-template-columns: 420px 300px;
     }
 
+    /* Alterando tamanho da fonte dos titulos do conteúdo */
     .apresentacao__conteudo__titulo {
         font-size: 1.2rem;
     }
