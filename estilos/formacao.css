@@ -18,8 +18,8 @@
 } */
 
 .conteudo__principal__formacao {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: 603px 529px;
     gap: 1rem;
 }
 
