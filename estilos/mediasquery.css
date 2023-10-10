@@ -265,10 +265,12 @@
         font-size: 2.5rem;
     } 
 
+    /* Alterando tamanho do espaçamento do layout da página */
     .apresentacao_layout {
         gap: 4rem;
     }
 
+    
     .apresentacao__conteudo__texto__principal {
         font-size: 1.6rem;
     }
