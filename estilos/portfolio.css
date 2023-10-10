@@ -16,16 +16,6 @@
     transform: scale(1.15);
 }
 
-/* Aplicando estilo ao conteudo da página, com display grid de 3 colunas alinhadas ao centro da página */
-/* .conteudo__principal__portfolio {
-    display: grid;
-    grid-template-columns: 380px 380px 380px;
-    justify-content: center;
-    align-items: start;
-    width: 700px;
-    gap: 2em;
-} */
-
 /* Aplicando estilo ao titulo dos projeto */
 .apresentacao__conteudo__titulo__projetos {
     font-size: .9rem;
