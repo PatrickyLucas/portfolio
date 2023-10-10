@@ -6,7 +6,7 @@
     justify-content: center;
 }
 
-/* Aplicando estilo e definindo diplay flex como coluna dentro de um espaçamento de 800px */
+/* Aplicando estilo e definindo diplay flex como coluna dentro de um espaçamento de 100% da tela */
 .apresentacao__conteudo__principal {
     width: 100%;
     display: flex;
