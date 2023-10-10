@@ -68,7 +68,8 @@
     .apresentacao_layout {
         gap: 2rem;
     }
-      
+    
+    /* Alterando fonte do texto do rodapé */
     .rodape  {
         font-size: 0.9rem;
     }
