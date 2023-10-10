@@ -1,5 +1,6 @@
 /* Aplicando estilo para telas maiores que 375px */
 @media (min-width: 375px) {
+    /* Alterando titulo do cabeçalho */
     .titulo__cabecalho {
         font-size: 2.5rem;
     }
