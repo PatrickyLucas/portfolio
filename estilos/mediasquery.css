@@ -184,6 +184,7 @@
         flex-direction: row;
     }
 
+    /* Alterando apresentação dos botões das redes sociais da página dos contatos */
     .apresentacao__links__navegacao {
         display: flex;
         justify-content: center;
