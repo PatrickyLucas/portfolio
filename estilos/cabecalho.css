@@ -37,7 +37,7 @@
     transform: scale(1.2);
 }
 
-/*  */
+/* Aplicando estilo a uma linha que será o separador do cabeçalho para o conteudo principal */
 .cabecalho>hr {
     margin: .1rem;
     width: 98.8vw;
