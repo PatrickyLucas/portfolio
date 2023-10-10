@@ -21,7 +21,7 @@
     gap: 1rem;
 }
 
-/* Aplicando estilo a imagem de perfil com borda totalmente arredondada e um tamanho padrão */
+/* Aplicando estilo a imagem de perfil com borda totalmente arredondada e um tamanho de 25% da proporção da imagem*/
 .apresentacao__imagem {
     width: 25%;
     border-radius: 100%;
