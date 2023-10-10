@@ -115,6 +115,7 @@
         margin-left: 2.5rem;
     }
 
+    /* Alterando espaçamento da apresentação do layout */
     .apresentacao_layout {
         gap: 3rem;
     }
