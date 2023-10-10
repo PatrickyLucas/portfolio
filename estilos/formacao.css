@@ -7,7 +7,7 @@
     justify-content: center;
 }
 
-
+/* Aplicando estilo ao conteúdo principal da formação em display flex de colunas */
 .conteudo__principal__formacao {
     display: flex;
     flex-direction: column;
