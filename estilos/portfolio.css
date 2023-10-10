@@ -9,6 +9,13 @@
     border: 1px solid;
 }
 
+.portfolio:hover {
+    background-color: var(--cor-hover-botoes);
+    border: 2px solid var(--cor-tercearia);
+    transition: .6s;
+    transform: scale(1.15);
+}
+
 /* Aplicando estilo ao conteudo da página, com display grid de 3 colunas alinhadas ao centro da página */
 /* .conteudo__principal__portfolio {
     display: grid;
