@@ -161,7 +161,8 @@
         grid-template-columns: 360px 370px;
         gap: 2rem;
     }
-    
+
+    /* Ajustando conteúdo no inicio da divisão, alinhado ao grid */
     .formacoes,
     .badges__cisco,
     .certificado__alura {
