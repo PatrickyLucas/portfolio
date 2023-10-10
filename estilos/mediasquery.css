@@ -270,7 +270,7 @@
         gap: 4rem;
     }
 
-    
+    /* Alterando tamanho da fonte dos textos do conteúdo principal */
     .apresentacao__conteudo__texto__principal {
         font-size: 1.6rem;
     }
