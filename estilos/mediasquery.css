@@ -260,6 +260,7 @@
         margin: 0 auto;
     }
 
+    /* Alterando tamanho da fonte do titulo do conteúdo principal */
     .apresentacao__conteudo__titulo__principal {
         font-size: 2.5rem;
     } 
