@@ -9,6 +9,7 @@
     border: 1px solid;
 }
 
+/* Aplicando a pseudo-classe hover(passar com o mouse sobre o elemento) para destacar os cards do portfólio dos demais cards, alterando seu tamanho e cor de fundo */
 .portfolio:hover {
     background-color: var(--cor-hover-botoes);
     transition: .6s;
