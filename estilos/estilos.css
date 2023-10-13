@@ -1,6 +1,5 @@
 /* Importando fontes do Google Fontes para o projeto */
-@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Krona+One&family=Montserrat:wght@400;600&display=swap');
 
 /* Importando os arquivos css do projeto para o arquivo estilos.css */
 @import url('cabecalho.css');
