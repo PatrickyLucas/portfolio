@@ -6,7 +6,7 @@
     justify-content: start;
     gap: 2em;
     padding: .5rem;
-    border: 8px groove;
+    border: 8px groove white;
 }
 
 /* Aplicando a pseudo-classe hover(passar com o mouse sobre o elemento) para destacar os cards do portfólio dos demais cards, alterando seu tamanho e cor de fundo */
@@ -39,4 +39,9 @@
 .img__projeto {
     margin: 0 auto;
     width: 100%;
+}
+
+.link__portfolio {
+    text-decoration: none;
+    color: var(--cor-secundaria);
 }
