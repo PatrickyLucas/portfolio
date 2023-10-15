@@ -7,8 +7,8 @@
     gap: 2em;
     padding: .5rem;
     border: 8px groove white;
-    width: 325px;
-    height: 420px;
+    width: 240px;
+    height: 315px;
 }
 
 /* Aplicando a pseudo-classe hover(passar com o mouse sobre o elemento) para destacar os cards do portfólio dos demais cards, alterando seu tamanho e cor de fundo */
