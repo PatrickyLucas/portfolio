@@ -319,3 +319,9 @@
         grid-template-columns: 350px 350px 350px;
     }
 }
+
+@media (min-width: 2560px) {
+    .conteudo__principal__formacao {
+        grid-template-columns: 800px 800px;
+    }
+}
