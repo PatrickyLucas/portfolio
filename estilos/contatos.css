@@ -82,6 +82,7 @@
     color: var(--cor-tercearia);
 }
 
+/* Adicionando pseudo-classe hover(passar com o mouse sobre o elemento) no elemento do link do email */
 .link__email:hover {
     transition: .6s;
     transform: scale(1.07);

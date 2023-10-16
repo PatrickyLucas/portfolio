@@ -43,6 +43,7 @@
     width: 30vh;
 }
 
+/* Adicionando pseudo-classe hover(passar com o mouse sobre o elemento) nas imagens das formações */
 .img__hb:hover,
 .img__uninter:hover,
 .img__certificados__alura:hover {
