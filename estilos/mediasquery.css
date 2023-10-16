@@ -145,11 +145,13 @@
         font-size: 2.5rem;
     }
 
+    /* Alterando dimensões da div portfólio */
     .portfolio {
         width: 330px;
         height: 380px;
     }
 
+    /* Alterando dimensões da pseudo-classe hover(passar com o mouse sobre o elemento) da div portfólio */
     .portfolio:hover {
         transform: scale(1.08);
     }
