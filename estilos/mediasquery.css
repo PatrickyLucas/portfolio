@@ -41,6 +41,11 @@
         font-size: 0.6rem;
     }
 
+    .link__email:hover {
+        transition: .6s;
+        transform: scale(1.2);
+    }
+
     /* Alterando tamanho da fonte dos textos dos contatos */
     .texto__contatos {
         font-size: 0.75rem;
@@ -288,6 +293,11 @@
     /* Alterando tamanho da fonte dos textos do conteúdo principal */
     .apresentacao__conteudo__texto__principal {
         font-size: 1.6rem;
+    }
+
+    .link__email:hover {
+        transition: .6s;
+        transform: scale(1.4);
     }
 
     /* Alterando tamanho da fonte do texto do rodapé */

@@ -82,6 +82,11 @@
     color: var(--cor-tercearia);
 }
 
+.link__email:hover {
+    transition: .6s;
+    transform: scale(1.07);
+}
+
 /* Aplicando margem no texto do celular para ficar no padrão do página */
 .celular {
     margin-top: 1rem;
