@@ -43,21 +43,21 @@
     width: 100%;
 }
 
+/* Alterando dimensões das imagens dos projetos que estão com os tamanhos diferentes que os demais */
 .img__snake {
     width: 75%;
     height: 40%;
 }
-
 .img__calculadora {
     width: 60%;
     height: 45%;
 }
-
 .img__conversor {
     width: 70%;
     height: 45%;
 }
 
+/* Alterando cor padrão dos links e decoração, para padrões pré definidos no projeto */
 .link__portfolio {
     text-decoration: none;
     color: var(--fonte-primaria);
