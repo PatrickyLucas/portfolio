@@ -43,6 +43,11 @@
     width: 100%;
 }
 
+.img__snake {
+    width: 75%;
+    height: 40%;
+}
+
 .link__portfolio {
     text-decoration: none;
     color: var(--fonte-primaria);
