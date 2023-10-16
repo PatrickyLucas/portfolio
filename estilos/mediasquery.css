@@ -320,7 +320,9 @@
     }
 }
 
+/* Aplicando estilo para telas maiores que 2560px */
 @media (min-width: 2560px) {
+    /* Ajustando grid das formações */
     .conteudo__principal__formacao {
         grid-template-columns: 800px 800px;
     }
