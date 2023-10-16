@@ -53,6 +53,11 @@
     height: 45%;
 }
 
+.img__conversor {
+    width: 70%;
+    height: 45%;
+}
+
 .link__portfolio {
     text-decoration: none;
     color: var(--fonte-primaria);
